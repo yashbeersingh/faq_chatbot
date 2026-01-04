@@ -17,3 +17,10 @@ timestamp,query,decision,top_score,second_score,score_gap,chosen_faq,subcategory
 2026-01-05T00:20:45.433915,What is Safe Online Banking?,suggest,1.0,0.9374,0.0626,,
 2026-01-05T00:20:51.591286,What are the variants of YONO Business Corporate Internet Banking access?,answer,1.0,0.7616,0.2384,What are the variants of YONO Business Corporate Internet Banking access?,Digital Solutions
 2026-01-05T00:21:21.218418,What are the transaction limits?,answer,1.0,0.3344,0.6656,What are the transaction limits?,Digital Solutions
+2026-01-05T01:13:05.807598,What is Safe Online Banking?,suggest,1.0,0.9374,0.0626,,
+2026-01-05T01:13:11.613000,What is Safe Online Banking?,suggest,1.0,0.9374,0.0626,,
+2026-01-05T01:13:15.359105,What are the features of Safe Online Banking?,answer,1.0,0.9074,0.0926,What are the features of Safe Online Banking?,Safe Online Banking
+2026-01-05T01:13:22.569753,What is Safe Online Banking?,suggest,1.0,0.9374,0.0626,,
+2026-01-05T01:13:26.788113,What is Safe Online Banking?,suggest,1.0,0.9374,0.0626,,
+2026-01-05T01:14:52.364687,What is Safe Online Banking?,suggest,1.0,0.9374,0.0626,,
+2026-01-05T01:14:57.086859,How can customers acquire skills for Safe Online Banking?,answer,1.0,0.7003,0.2997,How can customers acquire skills for Safe Online Banking?,Safe Online Banking
