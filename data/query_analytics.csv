@@ -1,0 +1,19 @@
+timestamp,query,decision,top_score,second_score,score_gap,chosen_faq,subcategory
+2026-01-04T23:23:40.816570,how to login in yono business,fallback,0.3057,0.1373,0.1684,,
+2026-01-04T23:23:45.488797,How to open savings account?,answer,1.0,0.3552,0.6448,How to open savings account?,Savings Account
+2026-01-04T23:42:10.064011,What is YONO Business?,answer,1.0,0.8667,0.1333,What is YONO Business?,Digital Solutions
+2026-01-04T23:42:17.649753,Who can use YONO Business?,answer,1.0,0.8381,0.1619,Who can use YONO Business?,Digital Solutions
+2026-01-04T23:42:49.393047,do you know about sci cmp,fallback,0.2145,0.1376,0.0769,,
+2026-01-04T23:44:20.355883,call bhagg,fallback,0.2256,0.207,0.0186,,
+2026-01-04T23:53:08.435106,How can I update contact details in my Current Account?,answer,1.0,0.5595,0.4405,How can I update contact details in my Current Account?,Accounts
+2026-01-04T23:55:06.083835,what is yono business,fallback,0.0581,0.0503,0.0078,,
+2026-01-04T23:55:30.365613,yono business,fallback,0.071,0.0422,0.0287,,
+2026-01-04T23:59:15.382725,what is scfu,fallback,0.1331,0.0608,0.0722,,
+2026-01-05T00:05:06.849713,How to open savings account?,answer,1.0,0.3552,0.6448,How to open savings account?,Savings Account
+2026-01-05T00:05:09.272529,Minimum balance required?,answer,1.0,0.1165,0.8835,Minimum balance required?,Savings Account
+2026-01-05T00:06:35.535040,safe online banking,fallback,0.319,0.161,0.158,,
+2026-01-05T00:18:32.939806,What is YONO Business?,answer,1.0,0.8667,0.1333,What is YONO Business?,Digital Solutions
+2026-01-05T00:19:05.221908,What are the features of Safe Online Banking?,answer,1.0,0.9074,0.0926,What are the features of Safe Online Banking?,Safe Online Banking
+2026-01-05T00:20:45.433915,What is Safe Online Banking?,suggest,1.0,0.9374,0.0626,,
+2026-01-05T00:20:51.591286,What are the variants of YONO Business Corporate Internet Banking access?,answer,1.0,0.7616,0.2384,What are the variants of YONO Business Corporate Internet Banking access?,Digital Solutions
+2026-01-05T00:21:21.218418,What are the transaction limits?,answer,1.0,0.3344,0.6656,What are the transaction limits?,Digital Solutions

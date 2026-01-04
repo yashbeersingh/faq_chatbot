@@ -1,0 +1,161 @@
+category,subcategory,question,answer
+Loans,Home Loan,What documents are required for home loan?,"Income proof, ID proof, property documents."
+Loans,Home Loan,How to apply for home loan?,Apply online or visit branch.
+Accounts,Savings Account,How to open savings account?,Submit KYC documents at branch.
+Accounts,Savings Account,Minimum balance required?,Depends on account type.
+YONO Business,Digital Solutions,What is YONO Business?,"YONO Business is SBI’s digital banking platform designed for business and corporate customers to manage accounts, payments, trade finance, lending and other services online."
+YONO Business,Digital Solutions,Where can I access YONO Business?,YONO Business can be accessed through the official YONO Business web portal using a desktop or laptop with internet connectivity.
+YONO Business,Digital Solutions,Who can use YONO Business?,"YONO Business can be used by proprietorships, partnership firms, companies, trusts, institutions and other business entities having accounts with SBI."
+YONO Business,Digital Solutions,What digital services are available on YONO Business?,"YONO Business offers account management, payments, collections, trade finance, lending, API banking, user management and reporting services."
+YONO Business,Digital Solutions,How can NTB New to Bank customers onboard?,New to Bank customers can onboard by applying online through YONO Business and completing KYC and account opening formalities at the branch.
+YONO Business,Digital Solutions,How can ETB Existing SBI Customers onboard?,Existing SBI customers can onboard through YONO Business using their account details and complete verification as per bank process.
+YONO Business,Digital Solutions,What are the variants of YONO Business Corporate Internet Banking access?,"YONO Business offers different access variants such as view-only access, transaction rights access and advanced corporate banking features."
+YONO Business,Digital Solutions,What are the login options for YONO Business?,Users can log in using user ID and password along with OTP or other authentication methods as prescribed by the bank.
+YONO Business,Digital Solutions,How are user roles managed in YONO Business?,"User roles are managed through role-based access control where makers, checkers and authorisers can be defined."
+YONO Business,Digital Solutions,Can complex corporate hierarchies be replicated in YONO Business?,"Yes, YONO Business allows configuration of complex approval hierarchies and delegation of powers as per corporate policies."
+YONO Business,Digital Solutions,Can transactions be authorised by more than one person in YONO Business?,"Yes, YONO Business supports multi-level and multi-user transaction authorisation."
+YONO Business,Digital Solutions,What are the transaction limits?,"Transaction limits are defined by SBI based on account type, customer profile and approval structure."
+YONO Business,Digital Solutions,Can I use API Banking with YONO Business?,"Yes, API banking services are available for eligible corporate customers subject to bank approval."
+YONO Business,Digital Solutions,What lending options are available through YONO Business?,"YONO Business provides access to working capital loans, trade finance credit and other business lending products."
+YONO Business,Digital Solutions,Is YONO Business available in local languages?,"Currently, YONO Business is primarily available in English."
+YONO Business,Digital Solutions,How do I reach customer support for YONO Business?,"Customers can contact SBI customer support, visit their home branch or use contact details available on the YONO Business portal."
+YONO Business,Accounts,What is a Current Account?,A Current Account is a deposit account designed for businesses to conduct frequent transactions.
+YONO Business,Accounts,Who can open a Current Account?,"Businesses, firms, companies, trusts and institutions can open a Current Account with SBI."
+YONO Business,Accounts,What documents are required to open a Current Account?,"Documents include KYC documents, business registration proof and other documents as required by SBI."
+YONO Business,Accounts,How do I open a Current Account?,A Current Account can be opened by visiting an SBI branch or through online account opening channels where available.
+YONO Business,Accounts,How do I transfer my Current Account to the nearest branch?,You can request branch transfer by submitting a written request at your existing SBI branch.
+YONO Business,Accounts,How can I update contact details in my Current Account?,Contact details can be updated by visiting the branch or submitting a request through available digital channels.
+YONO Business,Accounts,Am I eligible for opening a Startup Current Account?,Eligibility depends on SBI criteria for startups and submission of required documents.
+YONO Business,Accounts,How do I select the type of Current Account to open?,You can select the account type based on your business needs with guidance from SBI branch officials.
+YONO Business,Trade Finance,Can I add multiple makers and checkers in eTrade?,"Yes, eTrade supports multiple makers and checkers based on user role configuration."
+YONO Business,Trade Finance,If margin is insufficient can it be requested during LC or BG issuance?,Margin requirements are as per bank policy and any relaxation is subject to branch approval.
+YONO Business,Trade Finance,Do I need to submit physical documents after uploading in eTrade?,Physical document submission may be required based on transaction type and branch instructions.
+YONO Business,Trade Finance,Under what circumstances does an eTrade transaction get locked?,"Transactions may get locked due to inactivity, validation errors or system issues."
+YONO Business,Trade Finance,How can a locked eTrade transaction be unlocked?,Locked transactions can be unlocked by the branch or authorised personnel.
+YONO Business,Trade Finance,From where can the transaction be accessed after unlock?,"Once unlocked, the transaction can be accessed from the transaction dashboard."
+YONO Business,Trade Finance,Will my work get auto saved in eTrade?,"Yes, eTrade supports auto-save to prevent data loss during system or network failure."
+YONO Business,Trade Finance,How can I save a template in eTrade?,Users can save templates while creating transactions for future reuse.
+YONO Business,Trade Finance,How can I delete my transaction in eTrade?,Transactions can be deleted before submission as per user rights.
+YONO Business,Trade Finance,Where can a checker see transaction details in eTrade?,Checkers can view transaction details in their pending or approval queue.
+YONO Business,Trade Finance,How can I check the status of my eTrade transaction?,Transaction status can be viewed from the transaction tracking section.
+YONO Business,Trade Finance,From where can I view past eTrade transactions?,Past transactions are available in the transaction history section.
+YONO Business,Trade Finance,How can I download my eTrade application?,Applications can be downloaded from the transaction details page.
+YONO Business,Trade Finance,Can I cancel a letter of credit after opening?,Cancellation of LC is subject to bank rules and beneficiary consent where applicable.
+YONO Business,Trade Finance,Can the branch view documents uploaded in eTrade?,"Yes, uploaded documents are visible to the concerned branch."
+YONO Business,Trade Finance,What is Export LC Advising?,Export LC Advising is the process of advising an export letter of credit to the beneficiary.
+YONO Business,Trade Finance,What is Export LC Confirmation?,Export LC Confirmation is an additional guarantee by a bank ensuring payment under the LC.
+YONO Business,Trade Finance,What is the prerequisite for availing Buyers Credit?,Prerequisites include sanctioned limits and compliance with SBI guidelines.
+YONO Business,Trade Finance,What is Advance Import Payment?,Advance Import Payment is payment made to an overseas supplier before shipment.
+YONO Business,Trade Finance,What is Pre Shipment Credit?,Pre Shipment Credit is financing provided to exporters before shipment of goods.
+YONO Business,Trade Finance,What is Post Shipment Credit?,Post Shipment Credit is financing provided after shipment of export goods.
+YONO Business,Trade Finance,What is PCFC facility?,PCFC is Pre-shipment Credit in Foreign Currency offered to exporters.
+YONO Business,Trade Finance,In which currencies is PCFC available?,PCFC is available in major foreign currencies as permitted by SBI.
+YONO Business,Trade Finance,What is e BG Electronic Bank Guarantee?,e-BG is a digital bank guarantee issued electronically through SBI systems.
+YONO Business,Trade Finance,How can an applicant request for e Bank Guarantee?,Applicants can request e-BG through YONO Business or by coordinating with their branch.
+YONO Business,Forex and Treasury,What is e-Forex Portal on YONO Business?,"The e-Forex Portal on YONO Business is an online platform that enables businesses to book forex transactions, track deals and manage treasury operations digitally."
+YONO Business,Forex and Treasury,What are the eligibility requirements for availing e-Forex?,"Eligibility for e-Forex depends on having an eligible SBI account, valid trade or remittance requirements and compliance with bank and RBI guidelines."
+YONO Business,Forex and Treasury,Are any financial updates available on the e-Forex portal?,"Yes, the e-Forex portal provides market-related information and updates relevant to forex transactions."
+YONO Business,Forex and Treasury,Can I place my rate booking order at a desired level?,"Yes, customers can place limit or stop-loss orders to book forex rates at desired levels instead of current market rates."
+YONO Business,Forex and Treasury,How can I track the status of my forex transaction?,The status of forex transactions can be tracked through the dashboard available on the e-Forex portal.
+YONO Business,Forex and Treasury,Which documents can be uploaded using Upload Documents option?,"Customers can upload trade-related documents such as invoices, contracts and regulatory documents as required for the transaction."
+YONO Business,Forex and Treasury,Can I delete a booked deal?,Booked deals generally cannot be deleted and are governed by bank policies; customers should contact the branch for guidance.
+YONO Business,Forex and Treasury,For how long is the live rate available?,Live forex rates are available for a limited time window during which customers must take a booking decision.
+YONO Business,Forex and Treasury,Do I need to fill Limit order rate and Stop loss rate while placing an order?,Limit order and stop-loss rate fields are optional and need to be filled only if the customer wishes to use these features.
+YONO Business,Forex and Treasury,What are status messages in running order and booked trade window?,"Status messages indicate the current state of the order or trade such as pending, executed, rejected or completed."
+YONO Business,Forex and Treasury,How can I cancel a booked forward?,Cancellation of a booked forward is subject to bank rules and may require branch intervention.
+YONO Business,Forex and Treasury,What should I do if my transaction status shows Rejected?,"If a transaction is rejected, customers should review the rejection reason and contact their branch or SBI support for resolution."
+YONO Business,Forex and Treasury,What is the minimum and maximum amount for booking rate on e-Forex?,Minimum and maximum booking amounts are defined by SBI as per product and regulatory guidelines.
+YONO Business,Forex and Treasury,Are forex rates updated in real time?,"Yes, forex rates on the e-Forex portal are updated in near real-time during market hours."
+YONO Business,Forex and Treasury,What currency pairs are available on e-Forex portal?,Major and permitted currency pairs are available on the e-Forex portal as approved by SBI.
+YONO Business,Forex and Treasury,How can remittances be carried out?,Remittances can be initiated through YONO Business by submitting required details and documents as per RBI guidelines.
+YONO Business,Forex and Treasury,How can inward remittances be converted?,Inward remittances can be converted through the e-Forex portal or by coordinating with the branch.
+YONO Business,Forex and Treasury,How many currencies are available for remittances?,Remittances are available in multiple foreign currencies as permitted by RBI and supported by SBI.
+YONO Business,Forex and Treasury,What documents are required for Retail Outward Remittance?,"Documents such as purpose declaration, invoices and KYC details are required for Retail Outward Remittance."
+YONO Business,Forex and Treasury,What are the transaction charges for outward remittance?,Transaction charges are as per SBI’s applicable schedule of charges.
+YONO Business,Forex and Treasury,What purposes are permitted under Retail Outward Remittance?,Permitted purposes are defined under RBI’s Liberalised Remittance Scheme and related guidelines.
+YONO Business,Forex and Treasury,What is the maximum limit for outward remittance?,The maximum limit for outward remittance is governed by RBI guidelines.
+YONO Business,Forex and Treasury,What RBI guidelines apply for outward remittance?,Outward remittances are governed by RBI’s Foreign Exchange Management Act and related circulars.
+YONO Business,Forex and Treasury,In how many currencies can Foreign Travel Card be availed?,Foreign Travel Cards can be availed in multiple foreign currencies as offered by SBI.
+YONO Business,Forex and Treasury,Can multiple currencies be loaded on a single Foreign Travel Card?,"Yes, multiple currencies can be loaded on a single Foreign Travel Card subject to product terms."
+YONO Business,Forex and Treasury,What documents are required for availing Foreign Travel Card?,"KYC documents, travel proof and application form are required for availing a Foreign Travel Card."
+YONO Business,Forex and Treasury,What is the maximum load amount on Foreign Travel Card?,Maximum load amount is subject to RBI regulations and SBI product limits.
+YONO Business,Forex and Treasury,What is the validity of the Foreign Travel Card?,The validity of the card is mentioned on the card and product documentation.
+YONO Business,Forex and Treasury,How can a business book forex transactions with SBI?,Businesses can book forex transactions through YONO Business e-Forex portal or via their SBI branch.
+YONO Business,Forex and Treasury,What documentation is required for Forward Contracts?,Documentation includes underlying exposure proof and regulatory declarations.
+YONO Business,Forex and Treasury,Who can apply for Forward Contracts?,Businesses with eligible forex exposure and approved limits can apply for Forward Contracts.
+YONO Business,Forex and Treasury,What are the benefits of booking Forward Contracts?,Forward Contracts help businesses hedge against adverse forex rate movements.
+YONO Business,Forex and Treasury,What is a Forward Contract?,A Forward Contract is an agreement to buy or sell foreign currency at a predetermined rate on a future date.
+YONO Business,Forex and Treasury,How can a customer book a Forward Contract?,Customers can book Forward Contracts through YONO Business or by coordinating with their SBI branch.
+YONO Business,Forex and Treasury,What are options contracts?,Options contracts provide the right but not the obligation to buy or sell currency at a specified rate.
+YONO Business,Forex and Treasury,What types of options contracts are available?,Different types of options contracts are available as permitted by RBI and offered by SBI.
+YONO Business,Forex and Treasury,What are the key advantages of derivatives?,Derivatives help in managing forex risk and protecting against market volatility.
+YONO Business,Forex and Treasury,How can customers hedge exposure using derivatives?,"Customers can hedge exposures by using forward contracts, options or swaps as applicable."
+YONO Business,Forex and Treasury,What is a swap?,A swap is a derivative contract where two parties exchange cash flows or currencies for a defined period.
+YONO Business,Forex and Treasury,What are the main types of swaps?,Common types of swaps include currency swaps and interest rate swaps.
+YONO Business,Forex and Treasury,How do swaps work?,Swaps involve exchanging principal or interest payments based on agreed terms.
+YONO Business,Forex and Treasury,What are the benefits of using swaps?,Swaps help in managing interest rate and currency risks.
+YONO Business,Forex and Treasury,What are the risks associated with swaps?,"Risks include market risk, credit risk and liquidity risk."
+YONO Business,Forex and Treasury,Who can use swaps?,Eligible corporate customers with approved limits can use swaps.
+YONO Business,Forex and Treasury,What is Commercial Paper?,Commercial Paper is a short-term unsecured money market instrument issued by corporates.
+YONO Business,Forex and Treasury,What are Non-Convertible Debentures?,Non-Convertible Debentures are fixed-income instruments that cannot be converted into equity.
+YONO Business,Loans,What are important terminologies in BRE Loan Journey?,"BRE loan journey terminologies include eligibility, sanction, disbursement and repayment as defined in the process."
+YONO Business,Loans,How can I apply for MSME loans under BRE?,MSME loans can be applied through YONO Business by submitting required business and financial details.
+YONO Business,Loans,What are the pre-requisites for loan sanction under BRE?,"Prerequisites include eligibility criteria, documentation and credit assessment."
+YONO Business,Loans,Who can avail ABL Saral?,Eligible MSMEs meeting SBI criteria can avail ABL Saral.
+YONO Business,Loans,What credit facilities are available under ABL Saral?,ABL Saral offers working capital and asset-based lending facilities.
+YONO Business,Loans,What is the repayment period under ABL Saral?,Repayment period is defined by SBI based on loan type and borrower profile.
+YONO Business,Loans,What is the maximum loan amount under ABL Saral?,Maximum loan amount is subject to SBI policy and borrower eligibility.
+YONO Business,Loans,What security is required under ABL Saral?,Security requirements are as per SBI’s lending guidelines.
+YONO Business,Loans,How do I apply for Asmita Loan?,Asmita Loan can be applied through SBI branches or digital channels where available.
+YONO Business,Loans,What is the maximum loan amount under Surya Shakti Solar Finance?,Maximum loan amount depends on project cost and SBI guidelines.
+YONO Business,Loans,Are net metering and gross metering projects permitted under Surya Shakti?,"Yes, both net metering and gross metering projects are permitted under the scheme."
+YONO Business,Cash Management Product,What is SBI CMP?,"SBI CMP is a Cash Management Product that helps corporates manage collections, payments and liquidity efficiently."
+YONO Business,Cash Management Product,What are the features of SBI CMP or SBI FAST services?,"Features include centralized collections, payments, reconciliation and reporting."
+YONO Business,Cash Management Product,What are the benefits of SBI CMP services?,"Benefits include improved cash flow visibility, operational efficiency and automation."
+YONO Business,Cash Management Product,What services are offered under SBI CMP?,"Services include collection solutions, payment solutions and liquidity management."
+YONO Business,Cash Management Product,What are the features of collection services under SBI CMP?,"Collection services offer faster realization, automated reconciliation and MIS."
+YONO Business,Cash Management Product,What are the features of payment services under SBI CMP?,"Payment services enable bulk payments, scheduled payments and secure fund transfers."
+YONO Business,Cash Management Product,What is bulk payment?,Bulk payment allows processing multiple payments in a single transaction file.
+YONO Business,Cash Management Product,What are features of electronic payment services?,"Electronic payment services provide secure, fast and automated payments."
+YONO Business,Cash Management Product,What is Balance Sweep or Liquidity Management Service?,This service optimizes fund utilization by automatically transferring surplus balances.
+YONO Business,Cash Management Product,Can customized MIS be generated using SBI CMP?,"Yes, customized MIS and reports can be generated."
+YONO Business,Cash Management Product,How can reports or MIS be accessed?,Reports can be accessed through YONO Business or CMP reporting tools.
+YONO Business,Cash Management Product,What are the charges for SBI CMP services?,Charges are as per SBI’s schedule of charges.
+YONO Business,Cash Management Product,Is documentation required for SBI CMP?,"Yes, documentation is required as per product onboarding norms."
+YONO Business,Supply Chain Finance,What is SCFU new URL?,SCFU new URL is the updated portal address for accessing Supply Chain Finance services.
+YONO Business,Supply Chain Finance,How does a newly created user log in?,New users can log in using credentials provided during onboarding.
+YONO Business,Supply Chain Finance,How do existing migrated users log in?,Migrated users can log in using their existing credentials on the new platform.
+YONO Business,Supply Chain Finance,How can I reset my password?,Password can be reset using the forgot password option.
+YONO Business,Supply Chain Finance,I forgot my secret question answer how can I reset password?,Users can reset their password by contacting support or following identity verification steps.
+YONO Business,Supply Chain Finance,My user ID is locked how can I unlock it?,User ID can be unlocked through branch or customer support assistance.
+YONO Business,Supply Chain Finance,What date format is allowed for invoice files?,Invoice files must follow the prescribed date format as mentioned in system guidelines.
+YONO Business,Supply Chain Finance,What amount format is allowed for invoice files?,Invoice amount must be entered in the prescribed numeric format.
+YONO Business,Supply Chain Finance,Should headers be removed from invoice files during upload?,"Yes, headers should be removed unless otherwise specified."
+YONO Business,Supply Chain Finance,How can I create new Maker or Checker users?,New users can be created through user management options.
+YONO Business,Supply Chain Finance,What is Manage Rule?,Manage Rule defines approval and processing rules for transactions.
+YONO Business,Supply Chain Finance,Who can create Manage Rule?,Authorized users can create Manage Rule requests.
+YONO Business,Supply Chain Finance,Who can authorize Manage Rule request?,Manage Rule requests are authorized by designated approvers.
+YONO Business,Supply Chain Finance,What points should be considered before creating Manage Rule?,"Users should consider limits, hierarchy and transaction flow."
+YONO Business,Supply Chain Finance,How does Manage Rule pair or group work under joint limit?,Rules are applied jointly as per configured approval structure.
+YONO Business,API Solutions,What is API Banking?,API Banking enables businesses to integrate banking services directly into their systems.
+YONO Business,API Solutions,What is YONO Business API Banking?,"YONO Business API Banking provides APIs for payments, collections and account services."
+YONO Business,API Solutions,What are the models of YONO Business API Banking?,API Banking is offered under Direct API integration and Third-Party API integration models.
+YONO Business,API Solutions,Who can apply for API Banking?,Eligible corporates with SBI accounts can apply for API Banking.
+YONO Business,API Solutions,How does a corporate apply for Direct API integration?,Corporates can apply through SBI and complete technical and compliance onboarding.
+YONO Business,API Solutions,How does onboarding differ for Third Party API Banking?,Third-party onboarding involves integration via approved service providers.
+YONO Business,API Solutions,What services are available via APIs?,"APIs support payments, collections, account information and reconciliation."
+YONO Business,API Solutions,How does API Banking improve business operations?,"API Banking improves automation, efficiency and real-time processing."
+YONO Business,API Solutions,How does SBI ensure API Banking security?,"Security is ensured through authentication, encryption and access controls."
+YONO Business,API Solutions,Can businesses control authorization for API transactions?,"Yes, authorization rules can be configured for API transactions."
+YONO Business,API Solutions,What IT requirements are needed for Direct API integration?,"IT requirements include secure servers, connectivity and technical readiness."
+YONO Business,API Solutions,Is testing available before going live?,"Yes, testing or sandbox environments are provided before production go-live."
+YONO Business,API Solutions,How long does API integration take?,Integration timelines vary based on complexity and readiness.
+YONO Business,API Solutions,Are there charges for API Banking?,Charges are applicable as per SBI’s pricing.
+YONO Business,API Solutions,What are transaction limits for API Banking?,Transaction limits depend on account type and approval structure.
+YONO Business,API Solutions,What is Straight Through Processing and Non STP?,STP processes transactions automatically while Non-STP involves manual intervention.
+YONO Business,API Solutions,Which API model supports STP?,Direct API integration supports Straight Through Processing.
+YONO Business,API Solutions,What should be done if an API transaction fails?,Failed transactions should be reviewed and escalated to support.
+YONO Business,API Solutions,Who should be contacted for API integration issues?,Businesses should contact SBI API support or their relationship manager.
+YONO Business,Safe Online Banking,What is Safe Online Banking?,Safe Online Banking refers to practices that help customers protect themselves from digital fraud.
+YONO Business,Safe Online Banking,How can customers acquire skills for Safe Online Banking?,Customers can acquire skills by following bank advisories and security awareness programs.
+YONO Business,Safe Online Banking,What are the features of Safe Online Banking?,"Features include secure authentication, awareness of fraud risks and safe usage practices."
